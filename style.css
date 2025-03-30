@@ -1,0 +1,16 @@
+
+        #d{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        #c{
+            text-align: center;
+            background-color: orange;
+            height: 400px;
+            width: 400px;
+            border-radius: 8%;
+            padding-top: 30px;
+            
+        }
